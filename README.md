@@ -6,16 +6,12 @@ The [R](https://www.r-project.org) script **monte** is a representative example 
 
 This particular code example reports the test for:
 
-<center>
-
 | parameter           | value                 |
 |--------------------:|:----------------------|
 | target              | **C**                 |
 | flanking            | (G)**C**              |
 | mutation rate range | top 5%                |
 | test                | higher than expected? |
-
-</center>
 
 For this example, **monte** produces a plot showing the distribution of top 5% mutation rates at (G)**C** sites in 10<sup>6</sup> permutations:
 
