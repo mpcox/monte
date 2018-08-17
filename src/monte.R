@@ -5,7 +5,7 @@
 # note: this example is coded for C-to-T mutations at GC sites
 
 # author: Jasmin Franke <jf132515@uni-greifswald.de>
-# modified: Murray Cox <m.p.cox@massey.ac.nz>
+# modified: Murray Cox <murray.p.cox@gmail.com>
 
 # date: January 2017
 
